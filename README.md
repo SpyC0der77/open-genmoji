@@ -314,10 +314,11 @@ If you want to delete the Sticker, long press and hold (**don't move your finger
 
 ## Contributing
 
-Open Genmoji is open to more LoRAs for:
+Open Genmoji is open to contributions implementing:
 
 - New models
 - New/Different sets of emojis
 - More training for existing emoji sets
+- Compatibility for other operating systems (mflux is only MacOS compatible)
 
 Check out `finetuning/README.md` for more information about finetuning, and check out `lora/README.md` for the current available LoRAs, as well as more information about how to contribute.
